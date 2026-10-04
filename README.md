@@ -43,7 +43,8 @@ Each image pixel is treated as a data point with three color features: Red, Gree
 Dominant-Color-Extraction/
 ├── Dominant_Color_Extraction.ipynb
 ├── elephant.jpg
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Results
